@@ -1,0 +1,47 @@
+{
+  "name": "af-bunchee",
+  "version": "1.0.0",
+  "private": true,
+  "description": "af-bunchee",
+  "author": "charoensak_n",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop --host 0.0.0.0",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "gatsby": "^4.17.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@types/node": "^17.0.42",
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5",
+    "@types/react-helmet": "^6.1.5",
+    "autoprefixer": "^10.4.7",
+    "gatsby-plugin-i18n": "^1.0.1",
+    "gatsby-plugin-image": "^2.17.0",
+    "gatsby-plugin-postcss": "^5.17.0",
+    "gatsby-plugin-react-helmet": "^5.17.0",
+    "gatsby-plugin-sharp": "^4.17.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-source-filesystem": "^4.17.0",
+    "gatsby-transformer-json": "^4.17.0",
+    "gatsby-transformer-sharp": "^4.17.0",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4",
+    "typescript": "^4.7.3"
+  }
+}

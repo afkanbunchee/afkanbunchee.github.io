@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Manufacturing",
+    "description": "Using components, parts, or raw materials to make a finished goods",
+    "link": "/en/industries/manufacturing"
+  },
+  {
+    "name": "Real Estate",
+    "description": "Managing, engineering, and designing the construction of buildings according to contracts",
+    "link": "/en/industries/real-estate"
+  },
+  {
+    "name": "Health Care",
+    "description": "Organized provision of medical care to individuals or a community",
+    "link": "/en/industries/health-care"
+  },
+  {
+    "name": "Non-Profit",
+    "description": "Business entity that does not operate for profits",
+    "link": "/en/industries/non-profit"
+  },
+  {
+    "name": "Dental",
+    "description": "Provision of dentistry healthcare services and dental practices to individuals",
+    "link": "/en/industries/dental"
+  },
+  {
+    "name": "Restaurant",
+    "description": "Provision of foods and drinks to travelers",
+    "link": "/en/industries/restaurant"
+  },
+  {
+    "name": "Law Firm",
+    "description": "Business that is engaged in the practice of law",
+    "link": "/en/industries/law-firm"
+  }
+]

@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Sarabun', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-display: swap;
+  line-height: 1.8rem;
+  position: relative;
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+h1 {
+  font-family: 'Mitr', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+h2 {
+  font-family: 'Mitr', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Mitr', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#hero .hero-space {
+  height: 88px;
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+  body {
+    font-size: 17px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+  h1 {
+    font-size: 26px;
+  }
+  h2 {
+    font-size: 26px;
+  }
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #hero .hero-space {
+    height: 93px;
+  }
+}

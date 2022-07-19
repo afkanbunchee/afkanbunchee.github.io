@@ -1,0 +1,30 @@
+[
+  {
+    "header": [
+      {
+        "link": "/en",
+        "text": "Home"
+      },
+      {
+        "link": "/en/about-us",
+        "text": "About Us"
+      },
+      {
+        "link": "/en/services",
+        "text": "Services"
+      },
+      {
+        "link": "/en/industries",
+        "text": "Industries"
+      },
+      {
+        "link": "/en/contact-us",
+        "text": "Contact Us"
+      }
+    ],
+    "pricing": {
+      "link": "/en/pricing",
+      "text": "Pricing"
+    }
+  }
+]
